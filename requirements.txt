@@ -1,0 +1,9 @@
+streamlit
+openai
+numpy
+pandas
+requests
+pillow
+textblob
+translate
+
