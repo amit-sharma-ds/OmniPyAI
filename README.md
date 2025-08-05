@@ -30,9 +30,11 @@ It merges various everyday AI tools into one unified interface, making it both p
 
 - **Python** – Core development language  
 - **Streamlit** – Fast web app deployment  
-- **OpenAI API** – ChatGPT, DALL·E, translation, sentiment  
+- **OpenAI API** – ChatGPT, DALL·E, translation, CSV QA  
+- **NLP (Natural Language Processing)** – GPT, TextBlob, Translation, Sentiment  
+- **Machine Learning (ML)** – Used in GPT-based reasoning and sentiment detection  
 - **Pandas** – Data handling and CSV processing  
-- **TextBlob** – Lightweight sentiment analysis  
+- **TextBlob** – Lightweight NLP for sentiment analysis  
 - **Requests** – Handling external API/image data  
 - **PIL (Pillow)** – Image rendering in Streamlit
 
